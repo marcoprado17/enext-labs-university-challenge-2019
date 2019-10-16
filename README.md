@@ -2,13 +2,13 @@
 
 Seja bem vindo ao desafio do Enext Labs!
 
-Nesse desafio você terá que obter as urls de produtos de alguns clientes Enext e com essas urls tentar decriptar 3 imagens. Essas três imagens, em conjunto, formam uma imagem que descreve um desafio de algoritmos (aqueles que você encontra em sites como URI Online Judge, Leet Code, maratonas de computação etc). O seu objetivo nesse desafio é encontrar as urls certas de produto, decriptar as imagens e resolver o desafio que essas imagens, em conjunto, formam.
+Nesse desafio você terá que obter as urls de produtos de alguns clientes Enext e com essas urls tentar decriptar 3 imagens. Essas três imagens, em conjunto, formam uma imagem que descreve um desafio de algoritmos (aqueles que você encontra em sites como URI Online Judge, Leet Code, olímpiadas de computação etc). O seu objetivo nesse desafio é encontrar as urls certas de produto, decriptar as imagens e resolver o desafio que essas imagens, em conjunto, formam.
 
-Exemplo das 3 imagens que em conjunto formam o problema de algoritmo:
+Exemplo das 3 imagens que, em conjunto, formam o problema de algoritmo:
 
 ![](img/enext_labs_university_challenge_2019_problem_original_image_example.png)
 
-Na pasta encoded_and_encrypted_images você encontra 9 arquivos .txt contendo as imagens png encodadades em base64 e encriptadas com AES 256. Para saber mais detalhes de como essas imagens foram encriptadas e detalhes e como validar se uma url consegue decriptar a imagem, recomendamos fortemente que você leia o conteúdo de um outro teste nosso. Lá explicamos tudo em detalhes:
+Na pasta encoded_and_encrypted_images você encontra 9 arquivos .txt contendo as imagens png encodadades em base64 e encriptadas com AES 256. Para saber mais detalhes de como essas imagens foram encriptadas e como validar se uma url consegue decriptar a imagem, recomendamos fortemente que você leia o conteúdo de um outro teste nosso. Lá explicamos tudo em detalhes:
 
 [https://github.com/marcoprado17/enext-labs-test-products-webcrawler-v1](https://github.com/marcoprado17/enext-labs-test-products-webcrawler-v1)
 
@@ -27,7 +27,7 @@ As urls candidatas a chave estarão em qualquer uma das páginas da seção de s
 
 ![](img/arezzo.png)
 
-Você só precisa encontrar uma única chave url das três.
+Você só precisa encontrar uma única url chave das três possíveis.
 
 # Bauducco
 
@@ -41,7 +41,7 @@ As urls candidatas estarão em qualquer uma das seções do site:
 
 ![](img/bauducco.png)
 
-Você só precisa encontrar uma única chave url das três.
+Você só precisa encontrar uma única url chave das três possíveis.
 
 # Jequiti
 
@@ -55,7 +55,7 @@ As urls candidatas estarão em qualquer uma das seções do site:
 
 ![](img/jequiti.png)
 
-Você só precisa encontrar uma única chave url das três.
+Você só precisa encontrar uma única url chave das três possíveis.
 
 # Observações
 
