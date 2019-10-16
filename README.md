@@ -14,7 +14,7 @@ Na pasta encoded_and_encrypted_images você encontra 9 arquivos .txt contendo as
 
 ## Arezzo
 
-Na pasta arezzo, temos 3 arquivos .txt representando a primeira imagem do desafio. Cada um desses arquivos foi encriptado com uma url da seção de sapatos de arezzo (https://www.arezzo.com.br/c/sapatos)[https://www.arezzo.com.br/c/sapatos]. os 3 arquivos representam a mesmo imagem, mas foram encriptados com urls diferentes para garantir que você consiga decriptar a imagem em caso um dos produtos chave escolhidos fosse removido da loja.
+Na pasta arezzo, temos 3 arquivos .txt representando a primeira imagem do desafio. Cada um desses arquivos foi encriptado com uma url da seção de sapatos de arezzo [https://www.arezzo.com.br/c/sapatos](https://www.arezzo.com.br/c/sapatos). os 3 arquivos representam a mesmo imagem, mas foram encriptados com urls diferentes para garantir que você consiga decriptar a imagem em caso um dos produtos chave escolhidos fosse removido da loja.
 
 Exemplo de urls candidatas:
 
