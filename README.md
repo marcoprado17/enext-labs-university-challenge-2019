@@ -64,6 +64,7 @@ Você só precisa encontrar uma única url chave das três possíveis.
     * gabriel.jacob@enext.com.br
 * Você deverá enviar um zip contendo todo código desenvolvido para obter as urls de produtos e valida-las, imagem decriptadas, código solução do desafio de algoritmo proposto etc
 * Você deverá criar um README.md explicando os arquivos enviadods no .zip, como você abordou o problema, tecnologias utilizadas, setup etc
+* No .zip vc tb deverá colocar o arquivo .git com os commits que vc fez. Crie os commits separados por feature/etapa. Iremos considerar tb a qualidade com que você faz seus commits.
 * Qualquer dúvida em relação ao desafio q vc não encontre descrito nesse repositório ou em [https://github.com/marcoprado17/enext-labs-test-products-webcrawler-v1](https://github.com/marcoprado17/enext-labs-test-products-webcrawler-v1) você poderá sana-lás com:
     * Marco Aurélio Prado
     * marco.vidoca@enext.com.br
