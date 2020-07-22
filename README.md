@@ -68,4 +68,3 @@ Você só precisa encontrar uma única url chave das três possíveis.
 * Qualquer dúvida em relação ao desafio q vc não encontre descrito nesse repositório ou em [https://github.com/marcoprado17/enext-labs-test-products-webcrawler-v1](https://github.com/marcoprado17/enext-labs-test-products-webcrawler-v1) você poderá sana-lás com:
     * Marco Aurélio Prado
     * marco.vidoca@enext.com.br
-    * (11) 98140-5682
